@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hallo, ich bin Aleksandar
 
-<!--
-**AleksandarVolaric/AleksandarVolaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich befinde mich aktuell in der Umschulung zum/zur **Fachinformatiker:in für Anwendungsentwicklung** in Stuttgart.
 
-Here are some ideas to get you started:
+Vor meinem Wechsel in die IT habe ich ein Studium zum Diplomingenieur für Verkehr abgeschlossen — nach einigen Jahren habe ich mich entschieden, in die Softwareentwicklung zu wechseln, da mich das Lösen technischer Probleme und das Programmieren mehr reizen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Aktuell lerne ich:
+- Git & GitHub
+- Python
+- Java
+- CSS
+- SQL
+
+## 🎯 Ziel
+Ich suche aktuell ein **Praktikum im Bereich Anwendungsentwicklung** in Stuttgart und Umgebung, um mein Wissen praktisch anzuwenden und weiter auszubauen.
+
+📫 Kontakt: aleksandar.volaric7@gmail.com
