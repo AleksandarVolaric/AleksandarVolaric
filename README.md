@@ -1,17 +1,67 @@
-👋 Hallo, ich bin Aleksandar
+# Aleksandar Volaric
 
-Ich befinde mich aktuell in der Umschulung zum/zur **Fachinformatiker:in für Anwendungsentwicklung** in Stuttgart.
+Hi, I’m Aleksandar — currently studying at GFN in Stuttgart and looking for a Praktikum in application development and software development.
 
-Vor meinem Wechsel in die IT habe ich ein Studium zum Diplomingenieur für Verkehr abgeschlossen — nach einigen Jahren habe ich mich entschieden, in die Softwareentwicklung zu wechseln, da mich das Lösen technischer Probleme und das Programmieren mehr reizen.
+I am building my skills through practical projects, coursework, and portfolio work, with a focus on Python, databases, and app development.
 
-## 🔧 Aktuell lerne ich:
-- Git & GitHub
+## Current focus
 - Python
-- Java
-- CSS
-- SQL
+- SQL / SQLite
+- Git & GitHub
+- Basic Android app development
+- HTML5 fundamentals
+- Clean project documentation and portfolio building
 
-## 🎯 Ziel
-Ich suche aktuell ein **Praktikum im Bereich Anwendungsentwicklung** in Stuttgart und Umgebung, um mein Wissen praktisch anzuwenden und weiter auszubauen.
+## Education
+- Currently studying at GFN, Stuttgart
+- Focus on software fundamentals and application development
 
-📫 Kontakt: aleksandar.volaric7@gmail.com
+## Learning path
+I have completed CS50 Python and am currently improving my skills in:
+1. SQL and database fundamentals
+2. Python + SQLite project development
+3. Practical portfolio projects
+4. Android app development basics
+5. GitHub project presentation for internships
+
+## Projects
+
+### 1) Python Calculator
+A small command-line calculator built with Python.
+- Features: arithmetic operations, input validation, and tests
+- Tech stack: Python
+- Repository: [Calculator](https://github.com/AleksandarVolaric/Calculator)
+
+### 2) CS50 Python Exercises
+Practice repository covering core Python concepts from CS50P.
+- Tech stack: Python
+- Repository: [python-exercises-CS50P](https://github.com/AleksandarVolaric/python-exercises-CS50P)
+
+### 3) Planned project
+I am currently planning a Python + SQLite personal tracker app to practice:
+- SQL queries
+- data modeling
+- CRUD operations
+- app logic
+- project documentation
+
+## Technical skills
+- Python
+- SQL / SQLite
+- Git / GitHub
+- Basic HTML5
+- Problem solving
+- Clean documentation
+- Android app development basics
+
+## Availability
+Available for a Praktikum starting on 02.11.2027.
+Open to internship opportunities in Stuttgart and the surrounding area.
+
+## Goal
+I am looking for a Praktikum in application development or software development in Stuttgart, where I can contribute, learn from real projects, and continue developing my practical skills.
+
+## Contact
+Email: aleksandar.volaric7@gmail.com
+
+GitHub: https://github.com/AleksandarVolaric
