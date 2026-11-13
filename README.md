@@ -26,24 +26,26 @@ I have completed CS50 Python and am currently improving my skills in:
 
 ## Projects
 
-### 1) Python Calculator
-A small command-line calculator built with Python.
+### Python Calculator
+A command-line calculator built with Python.
 - Features: arithmetic operations, input validation, and tests
 - Tech stack: Python
-- Repository: [Calculator](https://github.com/AleksandarVolaric/Calculator)
+- Repository: [Python-calculator](https://github.com/AleksandarVolaric/Python-calculator)
 
-### 2) CS50 Python Exercises
+### CS50 Python Exercises
 Practice repository covering core Python concepts from CS50P.
 - Tech stack: Python
 - Repository: [python-exercises-CS50P](https://github.com/AleksandarVolaric/python-exercises-CS50P)
 
-### 3) Planned project
-I am currently planning a Python + SQLite personal tracker app to practice:
-- SQL queries
-- data modeling
-- CRUD operations
-- app logic
-- project documentation
+### IPv4 Network Toolkit
+A command-line tool for working with IPv4 addresses and CIDR notation.
+- Tech stack: Python
+- Repository: [ipv4-network-toolkit](https://github.com/AleksandarVolaric/ipv4-network-toolkit)
+
+### Learning Tracker
+A command-line application for tracking school and private learning sessions.
+- Tech stack: Python, SQLite
+- Repository: [learning-tracker](https://github.com/AleksandarVolaric/learning-tracker)
 
 ## Technical skills
 - Python
