@@ -26,6 +26,7 @@ I’m building practical experience through Python projects, with a growing focu
 - Completed CS50 Python; continuing to develop my skills through practical projects
 - Currently learning more about SQL, SQLite, and Android app development
 - Interested in building useful software and learning from real-world development teams
+- Planning to learn Java and build projects to deepen my software development skills
 
 ## Looking for
 
