@@ -1,69 +1,37 @@
 # Aleksandar Volaric
 
-Hi, I’m Aleksandar — currently studying at GFN in Stuttgart and looking for a Praktikum in application development and software development.
+Aspiring software developer studying at GFN in Stuttgart and seeking a **Praktikum in application development or software development**.
 
-I am building my skills through practical projects, coursework, and portfolio work, with a focus on Python, databases, and app development.
+I’m building practical experience through Python projects, with a growing focus on databases, networking, and clean documentation.
 
-## Current focus
-- Python
-- SQL / SQLite
-- Git & GitHub
-- Basic Android app development
-- HTML5 fundamentals
-- Clean project documentation and portfolio building
+## Tech stack
 
-## Education
-- Currently studying at GFN, Stuttgart
-- Focus on software fundamentals and application development
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-## Learning path
-I have completed CS50 Python and am currently improving my skills in:
-1. SQL and database fundamentals
-2. Python + SQLite project development
-3. Practical portfolio projects
-4. Android app development basics
-5. GitHub project presentation for internships
+## Featured projects
 
-## Projects
+| Project | Description | Technologies |
+|---|---|---|
+| [Learning Tracker](https://github.com/AleksandarVolaric/learning-tracker) | CLI app for tracking school and private learning sessions. | Python, SQLite |
+| [IPv4 Network Toolkit](https://github.com/AleksandarVolaric/ipv4-network-toolkit) | CLI tool for working with IPv4 addresses and CIDR notation. | Python |
+| [Python Calculator](https://github.com/AleksandarVolaric/Python-calculator) | Command-line calculator project. | Python |
 
-### Python Calculator
-A command-line calculator built with Python.
-- Features: arithmetic operations, input validation, and tests
-- Tech stack: Python
-- Repository: [Python-calculator](https://github.com/AleksandarVolaric/Python-calculator)
+## About me
 
-### CS50 Python Exercises
-Practice repository covering core Python concepts from CS50P.
-- Tech stack: Python
-- Repository: [python-exercises-CS50P](https://github.com/AleksandarVolaric/python-exercises-CS50P)
+- Studying at GFN in Stuttgart, focusing on software fundamentals and application development
+- Completed CS50 Python; continuing to develop my skills through practical projects
+- Currently learning more about SQL, SQLite, and Android app development
+- Interested in building useful software and learning from real-world development teams
 
-### IPv4 Network Toolkit
-A command-line tool for working with IPv4 addresses and CIDR notation.
-- Tech stack: Python
-- Repository: [ipv4-network-toolkit](https://github.com/AleksandarVolaric/ipv4-network-toolkit)
+## Looking for
 
-### Learning Tracker
-A command-line application for tracking school and private learning sessions.
-- Tech stack: Python, SQLite
-- Repository: [learning-tracker](https://github.com/AleksandarVolaric/learning-tracker)
-
-## Technical skills
-- Python
-- SQL / SQLite
-- Git / GitHub
-- Basic HTML5
-- Problem solving
-- Clean documentation
-- Android app development basics
-
-## Availability
-Available for a Praktikum starting on 02.11.2027.
-Open to internship opportunities in Stuttgart and the surrounding area.
-
-## Goal
-I am looking for a Praktikum in application development or software development in Stuttgart, where I can contribute, learn from real projects, and continue developing my practical skills.
+A **Praktikum starting 02.11.2027** in application development or software development in Stuttgart or the surrounding area.
 
 ## Contact
-Email: aleksandar.volaric7@gmail.com
 
-GitHub: https://github.com/AleksandarVolaric
+- Email: [aleksandar.volaric7@gmail.com](mailto:aleksandar.volaric7@gmail.com)
+- GitHub: [AleksandarVolaric](https://github.com/AleksandarVolaric)
